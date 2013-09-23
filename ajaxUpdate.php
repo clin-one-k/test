@@ -1,4 +1,7 @@
 <?php
+/* allow user to change date and dollar amount without 
+ * reflash the page
+ */
 use_helper(
     'evMultiLangText',
     'paManagementComm',
